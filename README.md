@@ -6,7 +6,7 @@ My professional programming experience was with Java, but after so many years I 
 
 In 2023 I graduated in Visual Arts, and you can see a few of my works in that area in [Pixelfed](https://pixelfed.social/brianch).
 
-I'm a big **FOSS** enthusiast, so I've been a GNU/Linux user for years and both in programming and in arts, I only work with Free and Open Source softwares.
+I'm a big **FOSS** enthusiast, so I've been a GNU/Linux user for years and both in programming and in arts I use only Free and Open Source softwares.
 
 <!--
 **brianch/brianch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
