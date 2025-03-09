@@ -8,6 +8,8 @@ In 2023 I graduated in Visual Arts, and you can see a few of my works in that ar
 
 I'm a big **FOSS** enthusiast, so I've been a GNU/Linux user for years and both in programming and in arts I use only Free and Open Source softwares.
 
+I'm available for hire.
+
 <!--
 **brianch/brianch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
